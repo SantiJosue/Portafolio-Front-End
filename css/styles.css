@@ -194,7 +194,7 @@ main{
 }
 
 .banner-container{
-    background-image: url(/img/banner.jpg);
+    background-image: url(/Portafolio-Front-End/img);
     background-attachment: fixed;
     -webkit-background-attachment: fixed;
     background-size: cover;
