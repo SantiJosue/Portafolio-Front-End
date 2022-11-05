@@ -186,7 +186,7 @@ body{
 
 main{
     width: 100%;
-    background-image: url(/img/background.svg);
+    background-image: url("../img/background.svg")!important;;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -194,7 +194,7 @@ main{
 }
 
 .banner-container{
-    background-image: url(/Portafolio-Front-End/img);
+     background-image: url("../img/banner.jpg")!important;
     background-attachment: fixed;
     -webkit-background-attachment: fixed;
     background-size: cover;
